@@ -1,0 +1,20 @@
+#folder {
+    margin: 10px;
+}
+
+.menu a {
+    text-decoration: none;
+    color: blue;
+}
+
+.menu > div {
+    margin: 10px;
+    padding: 5px;
+}
+
+.folders-wrapper {
+    width: 100%;
+    text-align: center;
+    margin-top: 50px;
+    font-size: 20px;
+}
